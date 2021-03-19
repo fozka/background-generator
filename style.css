@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+body {
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    letter-spacing: 25px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+#direction {
+    margin-bottom: 15px;
+    background: transparent;
+    border: 1px solid black;
+}
+
+input {
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 17px;
+}
